@@ -1,2 +1,3 @@
-# lb02-portfolio-2020
- 
+Videocast LB02 Informatik BZZ Daniel Garavaldi
+
+Abgabe 22.12.2020
