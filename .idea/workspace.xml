@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9569f867-0ecc-4b7d-9125-1f99008a300c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1lBg9AIzBzz0jI7lhHvpGHLGy9y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/JS Tobi" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="npm.Puzzleserver">
+    <configuration name="Guitarserver" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="guitarserver" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Puzzleserver" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="puzzleserver" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Registrationserver" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="registrationserver" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Schoolserver" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="schoolserver" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm">
+      <command value="run" />
+      <scripts>
+        <script value="puzzleserver" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.Puzzleserver" />
+      <item itemvalue="npm.Guitarserver" />
+      <item itemvalue="npm.Schoolserver" />
+      <item itemvalue="npm.Registrationserver" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9569f867-0ecc-4b7d-9125-1f99008a300c" name="Default Changelist" comment="" />
+      <created>1607075745584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607075745584</updated>
+      <workItem from="1607075752512" duration="1152000" />
+      <workItem from="1607085056300" duration="150000" />
+      <workItem from="1607085298874" duration="48000" />
+      <workItem from="1607085359112" duration="246000" />
+      <workItem from="1607085623459" duration="7424000" />
+      <workItem from="1607673750685" duration="1289000" />
+      <workItem from="1607979700358" duration="10381000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="89" key="#Plugins" timestamp="1607085592066">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="312" y="89" key="#Plugins/0.0.1440.860@0.0.1440.860" timestamp="1607085592066" />
+    <state x="174" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607988432497">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1607988432497" />
+    <state x="438" y="129" key="#run" timestamp="1607085993466">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="438" y="129" key="#run/0.0.1440.860@0.0.1440.860" timestamp="1607085993466" />
+    <state x="500" y="186" key="FileChooserDialogImpl" timestamp="1607989789499">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="186" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1607989789499" />
+    <state width="1419" height="222" key="GridCell.Tab.0.bottom" timestamp="1607990112020">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1607990112020" />
+    <state width="1419" height="222" key="GridCell.Tab.0.center" timestamp="1607990112018">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1607990112018" />
+    <state width="1419" height="222" key="GridCell.Tab.0.left" timestamp="1607990112018">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1607990112018" />
+    <state width="1419" height="222" key="GridCell.Tab.0.right" timestamp="1607990112018">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1419" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1607990112018" />
+    <state x="376" y="195" key="run.anything.popup" timestamp="1607075895108">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="376" y="195" key="run.anything.popup/0.0.1440.860@0.0.1440.860" timestamp="1607075895108" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/11b_Asynchronous_JS/02_Excercises/app.js</url>
+          <line>28</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
